@@ -4,7 +4,7 @@
 <img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/ana.png" width="800px" height="auto">
 
 ## 📌 TANIM
-Sitem 1. Sınıf Bilgisayar Mühendisliğine Giriş dersinde sadece html kullanılarak oluşturulmuştur. Tüm içerikler kendime aittir.
+Sitem 1. Sınıf Bilgisayar Mühendisliğine Giriş dersinde sadece html kullanılarak oluşturulmuştur. Tüm içerikler ve tasarımlar şahsıma aittir.
 
 
 ## 🖥️ Yararlanılan Teknolojiler
