@@ -1,5 +1,6 @@
 # HARBİ İLGİNÇ GAZETE 📰
 ➤ Siteye ulaşmak için : [`HARBİ İLGİNÇ GAZETE`](http://ilgincgazete.freeoda.com/)
+
 <img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/ana.png" width="800px" height="auto">
 
 ## 📌 TANIM
@@ -15,7 +16,7 @@ git clone https://github.com/aslanburak/harbi-ilginc-gazete.git
 cd harbilgincgazete
 open index.html
 ```
-
+➤ Siteye ulaşmak için : [`HARBİ İLGİNÇ GAZETE`](http://ilgincgazete.freeoda.com/)
 
 
 
