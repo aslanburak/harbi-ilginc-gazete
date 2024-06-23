@@ -18,9 +18,9 @@ open index.html
 
 
 
-## 📸 Oyun Ekran Görüntüleri
+## 📸 Sitemizin Ekran Görüntüleri
 
-<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(1).png" width="400px" height="auto">
-<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(2).png" width="400px" height="auto">
-<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(3).png" width="400px" height="auto">
-<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(4).png" width="400px" height="auto">
+<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(1).png" width="800px" height="auto">
+<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(2).png" width="800px" height="auto">
+<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(3).png" width="800px" height="auto">
+<img src="https://github.com/aslanburak/harbi-ilginc-gazete/blob/main/harbilgincgazete/images/githubimage/1%20(4).png" width="800px" height="auto">
